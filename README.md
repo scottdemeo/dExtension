@@ -1,7 +1,5 @@
 # :hospital: dExtension :computer:
 
-[![thumbnail image for presentation link to YouTube](/assets/youtube_thumbnail.png)](https://www.youtube.com/watch?v=3ITHgLBZaaQ)
-
 Keeping track of blood sugar levels can often feel overwhelming, especially on top of a busy workweek.
 
 That's why I sought to build dExtension, a tool that enables developers with diabetes to easily see their blood sugar data within their VS Code programming environment, in real-time - all without disrupting their workflow.
@@ -79,6 +77,8 @@ Developed using the following technologies:
 - Conceived / developed over the course of four days as a hackathon project
 - January 2019 Fullstack Academy Stackathon Award Winner
   - "Mad Science - Most Purely and Absurdly Excellent Project"
+- Stackathon Presentation:
+  [![thumbnail image for presentation link to YouTube](/assets/youtube_thumbnail.png)](https://www.youtube.com/watch?v=3ITHgLBZaaQ)
 
 ## Release Notes
 
