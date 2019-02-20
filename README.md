@@ -1,5 +1,7 @@
 # :hospital: dExtension :computer:
 
+[![thumbnail image for presentation link to YouTube](/assets/youtube_thumbnail.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 Keeping track of blood sugar levels can often feel overwhelming, especially on top of a busy workweek.
 
 That's why I sought to build dExtension, a tool that enables developers with diabetes to easily see their blood sugar data within their VS Code programming environment, in real-time - all without disrupting their workflow.
