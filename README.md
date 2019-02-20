@@ -4,7 +4,7 @@ Keeping track of blood sugar levels can often feel overwhelming, especially on t
 
 That's why I sought to build dExtension, a tool that enables developers with diabetes to easily see their blood sugar data within their VS Code programming environment, in real-time - all without disrupting their workflow.
 
-![](/assets/full_screen.png)
+![dExtension full screen app view](/assets/full_screen.png)
 
 ## Features
 
@@ -12,23 +12,23 @@ In the dExtension status bar item, users are able to see their latest blood gluc
 
 ### :arrow_upper_right: Status Bar Item:
 
-![](/assets/status_bar.png)
+![dExtension status bar item](/assets/status_bar.png)
 
 In addition to live blood sugar readings, users of dExtension are also able to view a historical three-hour trend graph.
 
-### :chart_with_upwards_trend: Trend Graph:
+### :chart_with_upwards_trend: Trend Graph (Light Color Theme):
 
-![](/assets/trend_graph.png)
+![trend graph, light color theme](/assets/trend_graph.png)
 
 Users can configure custom thresholds for high or low blood sugar alert notifications as well.
 
 ### :alarm_clock: Configurable Alerts:
 
-![](/assets/configurable_alerts.png)
+![configurable alerts](/assets/configurable_alerts.png)
 
 ### :bangbang: Low Glucose Alert:
 
-![](/assets/low_alert.gif)
+![low glucose alert](/assets/low_alert.gif)
 
 ## Extension Settings
 
