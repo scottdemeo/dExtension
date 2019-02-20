@@ -78,6 +78,7 @@ Developed using the following technologies:
 - January 2019 Fullstack Academy Stackathon Award Winner
   - "Mad Science - Most Purely and Absurdly Excellent Project"
 - Stackathon Presentation:
+
   [![thumbnail image for presentation link to YouTube](/assets/youtube_thumbnail.png)](https://www.youtube.com/watch?v=3ITHgLBZaaQ)
 
 ## Release Notes
