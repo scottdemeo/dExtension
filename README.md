@@ -1,6 +1,6 @@
 # :hospital: dExtension :computer:
 
-[![thumbnail image for presentation link to YouTube](/assets/youtube_thumbnail.png)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![thumbnail image for presentation link to YouTube](/assets/youtube_thumbnail.png)](https://www.youtube.com/watch?v=3ITHgLBZaaQ)
 
 Keeping track of blood sugar levels can often feel overwhelming, especially on top of a busy workweek.
 
