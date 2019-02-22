@@ -14,11 +14,15 @@ In the dExtension status bar item, users are able to see their latest blood gluc
 
 ![dExtension status bar item](/assets/status_bar.png)
 
-In addition to live blood sugar readings, users of dExtension are also able to view a historical three-hour trend graph.
+In addition to live blood sugar readings, users of dExtension are also able to view a historical three-hour trend graph that will automatically match their VS Code theme preference (light / dark).
 
 ### :chart_with_upwards_trend: Trend Graph (Light Color Theme):
 
-![trend graph, light color theme](/assets/trend_graph.png)
+![trend graph, light color theme](/assets/trend_graph_light.png)
+
+### :chart_with_downwards_trend: Trend Graph (Dark Color Theme):
+
+![trend graph, dark color theme](/assets/trend_graph_dark.png)
 
 Users can configure custom thresholds for high or low blood sugar alert notifications as well.
 
@@ -71,6 +75,7 @@ Developed using the following technologies:
 - More intelligent error handling / asynchronous flow
 - API logic to automate missed reading retrieval and storage
 - Export glucose log to CSV
+- Configurable chart ranges
 
 ## Development Notes / Misc.
 
