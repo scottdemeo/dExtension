@@ -76,6 +76,7 @@ Developed using the following technologies:
 - API logic to automate missed reading retrieval and storage
 - Export glucose log to CSV
 - Configurable chart ranges
+- Configurable alerts for rise/fall rates
 
 ## Development Notes / Misc.
 
